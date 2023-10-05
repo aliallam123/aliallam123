@@ -1,8 +1,7 @@
 import unittest
 
 #The function to be tested
-def add_numbers(a,b):
-    return a + b
+
 
 class TestFunction(unittest.TestCase):
 
